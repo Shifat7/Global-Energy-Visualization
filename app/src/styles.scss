@@ -1,0 +1,9 @@
+// Import Bootstrap and its default variables
+@import '~bootstrap/scss/bootstrap.scss';
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #272727;
+}

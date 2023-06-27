@@ -1,0 +1,10 @@
+text {
+  pointer-events: none;
+  cursor: pointer;
+}
+
+svg .country:hover {
+  stroke: black;
+  stroke-width: 1px;
+  cursor: pointer;
+}
