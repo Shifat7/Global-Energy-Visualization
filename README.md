@@ -240,9 +240,3 @@ contain only one color. The user could also hover the mouse over to any part of 
 countries name and more details about it so as to not clutter the map itself with unnecessary labels.
 
 ![Initial design prototype for map choropleth](assets/2.png)
-
-
-## Conclusion
-
-Overall, the main goal of the website was to let the user have plenty of input functionality to experiment with the data following the best of visualisation guidelines possible. The main feature of our website would be that it has unparalleled interactivity with endless choices for data graphs all for various energy types used globally. This allows the user to make their own conclusion of the data provided.
-
